@@ -114,3 +114,9 @@ Observed relationships between dependent and independent features
 Detected possible outliers and anomalies
 
 Found features that significantly impact target variables
+
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/f3466a38-e38f-4190-ac1d-1159305cc481)
+
+![Image](https://github.com/user-attachments/assets/3055e997-952e-4fd3-a5be-bbaa9b763b58)
